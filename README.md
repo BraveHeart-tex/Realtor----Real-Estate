@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+You can check out the live demo of this project from here: https://next-js-real-estate-app.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
