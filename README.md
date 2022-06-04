@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 # LIVE DEMO
-You can check out the live demo of this project from here: https://next-js-real-estate-app.vercel.app/
+You can check out the live demo of this project on Vercel from this link: https://next-js-real-estate-app.vercel.app/
 
 ## Getting Started
 
