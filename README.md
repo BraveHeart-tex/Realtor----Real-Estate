@@ -14,6 +14,24 @@ Realtor is a single-page web application built using Next.js and React. Users ca
   - Baths,
   - Furnish Type and Property Type.
 
+## SHOWCASE
+
+### Desktop Home Page
+<img src="https://i.hizliresim.com/8ucb995.png" alt="Desktop Home Page"/>
+
+### Desktop Apartments Page
+<img src="https://i.hizliresim.com/1chjsr8.png" alt="Desktop Single Apartment Page"/>
+
+### Desktop Search Page
+<img src="https://i.hizliresim.com/1wpb402.png" alt="Desktop Single Apartment Page"/>
+
+### Desktop Single Apartment Page
+<img src="https://i.hizliresim.com/9ksxdgg.png" alt="Desktop Single Apartment Page"/>
+
+
+
+
+
 ### Dependencies
 This project uses the following dependencies:
 - Next.js - A minimalist framework for server-rendered React applications
