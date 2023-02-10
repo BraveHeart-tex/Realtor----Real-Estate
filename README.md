@@ -1,4 +1,4 @@
-## Realtor
+# Realtor
 Realtor is a single-page web application built using Next.js and React. Users can view homes for rental or sale. The application also features filtering and searching for rental or for sale properties.
 
 # LIVE DEMO
