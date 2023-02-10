@@ -1,6 +1,20 @@
 # LIVE DEMO
 You can check out the live demo of this project on Vercel from this [link](https://next-js-real-estate-app.vercel.app)
 
+## Realtor
+Realtor is a single-page web application built using Next.js and React. Users can view homes for rental or sale. The application also features filtering and searching for rental or for sale properties.
+
+### Dependencies
+This project uses the following dependencies:
+- Next.js - A minimalist framework for server-rendered React applications
+- React - A JavaScript library for building user interfaces
+- axios - Promise-based HTTP client for the browser and node.js
+- @chakra-ui/react - A simple, modular and accessible component library for React
+- @emotion/react - A library designed for writing CSS styles with JavaScript
+- framer-motion - A powerful animation library for React
+- react-icons - Collection of popular icons in a single import
+
+
 <hr/>
 
 ## Getting Started
