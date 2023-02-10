@@ -20,10 +20,10 @@ Realtor is a single-page web application built using Next.js and React. Users ca
 <img src="https://i.hizliresim.com/8ucb995.png" alt="Desktop Home Page"/>
 
 ### Desktop Apartments Page
-<img src="https://i.hizliresim.com/1chjsr8.png" alt="Desktop Single Apartment Page"/>
+<img src="https://i.hizliresim.com/1chjsr8.png" alt="Desktop Apartments Page"/>
 
 ### Desktop Search Page
-<img src="https://i.hizliresim.com/1wpb402.png" alt="Desktop Single Apartment Page"/>
+<img src="https://i.hizliresim.com/1wpb402.png" alt="Desktop Search Page Page"/>
 
 ### Desktop Single Apartment Page
 <img src="https://i.hizliresim.com/9ksxdgg.png" alt="Desktop Single Apartment Page"/>
