@@ -28,7 +28,17 @@ You can check out the live demo of this project on Vercel from this [link](https
 ### Desktop Single Apartment Page
 <img src="https://i.hizliresim.com/9ksxdgg.png" alt="Desktop Single Apartment Page"/>
 
+### Mobile Home Page
+<img src="https://i.hizliresim.com/163agd7.png" alt="Mobile home page"/>
 
+### Mobile Apartments Page
+<img src="https://i.hizliresim.com/ox2iy7u.png" alt="Mobile apartments page"/>
+
+### Mobile Search Page
+<img src="https://i.hizliresim.com/d5rsj8q.png" alt="Mobile search page"/>
+
+### Mobile Single Apartment Page
+<img src="https://i.hizliresim.com/jco4jwx.png" alt="Mobile single apartment page"/>
 
 
 
